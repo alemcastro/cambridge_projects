@@ -1,6 +1,6 @@
 # Cambridge Data Science Projects
 
-Notebooks from my Career Accelerator in Data Science with Machine Learning & AI, a University of Cambridge Professional and Continuing Education programme.
+Notebooks from my postgraduate programme in Data Science with Machine Learning & AI at the University of Cambridge Professional and Continuing Education programme.
 
 Some course material has been removed or anonymised, so some notebooks will need the course data to run.
 
